@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1552336558 source:c:\users\alumno\desktop\maximo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pino.h"
+
+1552336558 c:\users\alumno\desktop\maximo\pino.h
+
