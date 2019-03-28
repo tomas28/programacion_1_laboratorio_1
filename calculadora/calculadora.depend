@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1553733135 source:c:\users\el pino\desktop\calculadora\operaciones.c
+
+1553733206 source:c:\users\el pino\desktop\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operaciones.h"
+
+1553731258 c:\users\el pino\desktop\calculadora\operaciones.h
+
